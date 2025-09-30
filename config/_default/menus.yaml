@@ -1,0 +1,66 @@
+leftnav:
+- identifier: 75b86e90-e95f-4a68-9827-a50e95920872
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: c79f7d22-d95c-4962-bda7-e8b80785dae7
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights2
+  weight: 20
+- identifier: 24d0f118-e8bf-40fc-a94d-3fd9ae3b12cf
+  name: Schedule and Readings
+  pageRef: /pages/reading-list
+  weight: 30
+- identifier: 8324a052-f18c-4d2b-a7b4-195560f5091f
+  name: Selected Class Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: d6da3e3c-45b3-4a62-b67f-6ee8d3036e50
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: c8c1c5fb-340a-4611-9c9d-244490ed77b7
+  name: How the Course Came About
+  pageRef: /pages/how-the-course-came-about
+  parent: c79f7d22-d95c-4962-bda7-e8b80785dae7
+  weight: 10
+- identifier: 3e04d6ae-7eed-49c0-9100-8b38a81df800
+  name: Why Teach Linguistics in Schools?
+  pageRef: /pages/why-teach-linguistics-to-shoolkids
+  parent: c79f7d22-d95c-4962-bda7-e8b80785dae7
+  weight: 20
+- identifier: 47fa903d-c197-4c16-b70d-2908e47808ae
+  name: Using a "Backwards" Course Design
+  pageRef: /pages/using-a-backwards-course-design
+  parent: c79f7d22-d95c-4962-bda7-e8b80785dae7
+  weight: 30
+- identifier: 9882a67c-d529-42a2-9bbe-5e73b8f3471d
+  name: Collaborative Work
+  pageRef: /pages/collaborative-work
+  parent: c79f7d22-d95c-4962-bda7-e8b80785dae7
+  weight: 40
+- identifier: 5265ad6b-bb15-4d82-be00-46ea572906f5
+  name: The Format of the Teaching Experience
+  pageRef: /pages/the-format-of-the-teaching-experience
+  parent: c79f7d22-d95c-4962-bda7-e8b80785dae7
+  weight: 50
+- identifier: 51c53b44-d215-4dcb-a85c-caf1262c4817
+  name: Design and Teaching Experience I
+  pageRef: /pages/design-and-teaching-experience-i-spring-spark
+  parent: d6da3e3c-45b3-4a62-b67f-6ee8d3036e50
+  weight: 10
+- identifier: 344eb7ca-019f-4056-bf38-ff4bd7c43ff5
+  name: Design and Teaching Experience II
+  pageRef: /pages/design-and-teaching-experience-ii-a-linguistics-lesson-in-a-partner-teachers-class
+  parent: d6da3e3c-45b3-4a62-b67f-6ee8d3036e50
+  weight: 20
+- identifier: 4dc9da99-3c60-44cb-8165-6602800b2d3f
+  name: Poster Presentation
+  pageRef: /pages/poster-presentation
+  parent: d6da3e3c-45b3-4a62-b67f-6ee8d3036e50
+  weight: 30
+- identifier: bfd54aef-c0e7-4124-803c-1f473f61f093
+  name: Final Project and Paper
+  pageRef: /pages/final-project-and-paper-a-linguistics-unit
+  parent: d6da3e3c-45b3-4a62-b67f-6ee8d3036e50
+  weight: 40
