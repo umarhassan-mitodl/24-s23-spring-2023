@@ -3,8 +3,6 @@ content_type: page
 description: This page presents basic information about the content, structure, and
   grading policies in 24.S95 Linguistics in K-12 Education.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Syllabus
 uid: 75b86e90-e95f-4a68-9827-a50e95920872
 ---
@@ -33,7 +31,7 @@ This course is offered in the context of a revitalized MIT Linguistics initiativ
 This course is designed to enable you to do the following:
 
 - Analyze case studies of K–12 linguistics through the lens of curriculum design
-- Design and present a linguistics "unit" (course/unit/lesson) within the [Understanding by Design (UbD)](https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf) framework of “backwards” course design, which involves identifying "desired results," determining "evidence of understanding," and developing a "learning plan" and "learning events"
+- Design and present a linguistics "unit" (course/unit/lesson) within the {{% resource_link "1cf8a43c-fa79-43cb-8841-60f57ba9d8fd" "Understanding by Design (UbD)" %}} framework of “backwards” course design, which involves identifying "desired results," determining "evidence of understanding," and developing a "learning plan" and "learning events"
 - Engage learners in linguistic inquiry by using effective instructional practices
 - Collaborate with others by giving and receiving feedback on unit design and co-teaching
 - Deepen your thinking about core linguistic concepts through reflection on curriculum
@@ -51,7 +49,7 @@ We will spend much of class learning by doing: learning the UbD framework by des
 
 #### Design and Teaching Experience I: Spring Spark
 
-Our class will participate in Spring [Spark](https://cua.mit.edu/events/spark-2024/), a 2-day-long, weekend program at MIT hosted by the student-run MIT Educational Studies Program. We will register as a group to cooperatively teach two sections of Language Science.
+Our class will participate in Spring {{% resource_link "6708687e-12ec-4626-a276-1c8f7f7e9ef2" "Spark" %}}, a 2-day-long, weekend program at MIT hosted by the student-run MIT Educational Studies Program. We will register as a group to cooperatively teach two sections of Language Science.
 
 #### Design and Teaching Experience II: A Linguistics Lesson in a Partner Teacher’s Class
 
@@ -71,7 +69,7 @@ This course will involve a good deal of work with class colleagues. I encourage 
 
 ### Academic Integrity
 
-I will hold all members of this class to the high standard of academic integrity that is expected of students at MIT. I expect that you will submit work that you have done yourself and that you will acknowledge the sources that you use and the contributions of others to your work. (See A Note about Collaboration, above.) It is important that you know, understand, and uphold MIT’s policies regarding academic integrity, which are available at [Academic Integrity at MIT: A Handbook for Students](https://integrity.mit.edu/handbook/academic-integrity-handbook). If you have any questions about these policies, please speak with me.
+I will hold all members of this class to the high standard of academic integrity that is expected of students at MIT. I expect that you will submit work that you have done yourself and that you will acknowledge the sources that you use and the contributions of others to your work. (See A Note about Collaboration, above.) It is important that you know, understand, and uphold MIT’s policies regarding academic integrity, which are available at {{% resource_link "c889847a-cc6f-4b38-8ed2-2fef60bcb66d" "Academic Integrity at MIT: A Handbook for Students" %}}. If you have any questions about these policies, please speak with me.
 
 ### Diversity
 
